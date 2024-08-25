@@ -33,7 +33,7 @@ The problems are divided into several sets, each focusing on different mathemati
 
 ## How to Use This Repository
 
-Each problem is solved using a variety of programming techniques and languages, with a focus on clarity and efficiency. The solutions are organized by problem set, and each problem has its own directory containing the solution file and any necessary auxiliary files.
+Each problem is solved using a variety of programming techniques, with a focus on clarity and efficiency. The solutions are organized by problem set, and each problem has its own directory containing the solution file and any necessary auxiliary files.
 
 ### Structure
 - **In Progress**
